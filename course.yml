@@ -1,0 +1,14 @@
+title: Seeing Security
+description: This is a demo 
+
+author-ids:
+  - jesse@vipassanahawaii.org
+locale: en-CA
+difficulty: BEGINNER
+badge-color: pink
+badge-icon: SmileTwoTone
+labs:
+  - id: First-Morning-Session
+    title: Morning Session
+    length-in-minutes: 5
+    relative-path: First-Morning-Session
