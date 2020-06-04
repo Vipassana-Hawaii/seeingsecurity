@@ -19,5 +19,4 @@ labs:
     relative-path: day2
   - id: Day three
     title: Day Monkey
-    length-in-minutes: 5
     relative-path: day3
