@@ -1,0 +1,15 @@
+title: Seeing Security Everywhere
+description: Day 1, Morning Session
+
+author-ids:
+  - Author1-65627050
+  - Author2-GitHub-ID-here
+locale: en-US
+difficulty: BEGINNER
+badge-color: green
+badge-icon: branch
+labs:
+  - id: morningsession-1
+    title: Morning Session - Friday, June 12
+    length-in-minutes: 5
+    relative-path: lab-01
