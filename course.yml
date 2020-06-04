@@ -7,7 +7,7 @@ author-ids:
 locale: en-CA
 difficulty: BEGINNER
 badge-color: pink
-badge-icon: <BugTwoTone />
+badge-icon: BugTwoTone
 labs:
   - id: Day One
     title: Day One
