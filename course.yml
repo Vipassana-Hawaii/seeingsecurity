@@ -13,7 +13,7 @@ labs:
     title: Day One
     length-in-minutes: 5
     relative-path: day1
-          
-    
-    
-
+  - id: Day Two
+    title: Day Two
+    length-in-minutes: 5
+    relative-path: day2
