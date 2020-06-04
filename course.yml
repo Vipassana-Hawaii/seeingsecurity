@@ -1,5 +1,5 @@
 title: Seeing Security
-description: This is a demo 
+description: This is a demo
 
 author-ids:
   - jesse@vipassanahawaii.org
@@ -13,4 +13,3 @@ labs:
     title: Morning Session
     length-in-minutes: 5
     relative-path: First-Morning-Session
-    
