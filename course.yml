@@ -7,7 +7,7 @@ author-ids:
 locale: en-CA
 difficulty: BEGINNER
 badge-color: pink
-badge-icon: BugTwoTone
+badge-icon: bulb
 labs:
   - id: Day One
     title: Day One
@@ -17,3 +17,7 @@ labs:
     title: Day Two
     length-in-minutes: 5
     relative-path: day2
+  - id: Day three
+    title: Day Monkey
+    length-in-minutes: 5
+    relative-path: day3
