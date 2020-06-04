@@ -7,9 +7,16 @@ author-ids:
 locale: en-CA
 difficulty: BEGINNER
 badge-color: pink
-badge-icon: SmileTwoTone
+badge-icon: bulb
 labs:
-  - id: First-Morning-Session
-    title: Morning Session
+  - id: Day One
+    title: Day One
     length-in-minutes: 5
-    relative-path: First-Morning-Session
+    relative-path: day1
+  - id: Day Two
+    title: Day Two
+    length-in-minutes: 5
+    relative-path: day2
+  - id: Day three
+    title: Day Three
+    relative-path: day3
