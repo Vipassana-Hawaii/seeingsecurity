@@ -32,6 +32,6 @@ AUDIO FILE?
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
- 
-Dhamma Talk Recording Link
+
+Dhamma Talk Recording Link  
 Q&A Recording Link
