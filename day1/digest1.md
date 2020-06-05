@@ -1,7 +1,7 @@
 # SEEING SECURITY EVERYWHERE:
 ## *Finding Refuge in the Storm of Uncertainty*
 
-![Burma Buddha](https://storage.cloud.google.com/vipassanahawaii-courses/2019-01-23_17-26-28_870.jpeg)
+![Golden Buddha](https://storage.googleapis.com/vipassanahawaii-courses/2019-01-23_15-58-23_613.jpeg)
 
 ## FRIDAY, JUNE 12
 (All times Hawaii Standard = GTM -10)
