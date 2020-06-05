@@ -1,4 +1,4 @@
-# SEEING SECURITY EVERYWHERE:
+# SEEING SECURITY EVERYWHERE
 ## *Finding Refuge in the Storm of Uncertainty*
 
 ![Marble Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha6.jpg)
