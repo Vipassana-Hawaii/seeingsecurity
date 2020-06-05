@@ -1,13 +1,13 @@
-title: Seeing Security Everywhere: Finding Refuge in the Storm of Uncertainty
-description: This is a demo
+title: Seeing Security Everywhere:
+description: Finding Refuge in the Storm of Uncertainty
 
 author-ids:
   - jesse@vipassanahawaii.org
   - stefan@phlyt.io
-locale: en-CA
+locale: en-US
 difficulty: BEGINNER
-badge-color: pink
-badge-icon: bulb
+badge-color: green
+badge-icon: branch
 labs:
   - id: Welcome
     title: Welcome
