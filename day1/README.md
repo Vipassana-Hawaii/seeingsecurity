@@ -14,7 +14,7 @@
 - password: xxxx
 
 ### 9-10:30 - INTERVIEWS
-Check email for zoom details
+- Check email for zoom details
 
 ### 12-1pm - DHAMMA OFFERING
 - zoom link here
