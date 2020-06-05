@@ -3,12 +3,19 @@
 
 ![Glowing Devas](https://storage.googleapis.com/vipassanahawaii-courses/buddha11.jpg)
 
-LINKS to recorded instructions
+## RESOURCES
+Here you will find links to all the recorded and print material you will need to support your retreat experience.
 
-LINKS to recorded talks
+Recorded Instructions
 
-LINks to metta chants
+Recorded Talks
 
-links to precepts
+Metta Chant
 
-Interview INSTRUCTIONS
+Precepts Chant
+
+Mahasi Interview Instructions
+
+Self-Retreat Chapter from Jesse's Book.
+
+Satipatthana Sutta
