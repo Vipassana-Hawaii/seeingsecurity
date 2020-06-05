@@ -34,7 +34,7 @@ Finally, We recommend you purcahse some headphones to ensure that you can hear t
 
  If you need to reach out to the teachers for some reason or require technical support, please email information@vipassanahawaii.org and we will do our best to respond quickly. This is not an appropriate way to address emergency issues.
 
- Normally on retreats we have emergency protocols for yogis experiencing more psychological/spiritual emergencies. In this format there is no way to provide support in an emergency capacity. We *insist* that all yogis have a designated "life-line" - someone or some people who are prepared to receive calls from you at any hour of the night in order to help settle you down and comfort you into a better state of mind. Please communicate with that person in advance of the retreat and give them our contact details.
+ Normally on physical retreats we have emergency protocols for yogis experiencing more psychological/spiritual emergencies. In this online format there is no way to provide support in an emergency capacity. We *insist* that all yogis have a designated "life-line" - someone or some people who are prepared to receive calls from you at any hour of the night in order to help settle you down and comfort you into a better state of mind. Please communicate with that person in advance of the retreat and give them our contact details.
 
  ### INTERVIEWS
  We will also be doing individual interviews on a 3-day rotation so every yogi will have 3 interviews and the chance to interview with 3 of the teachers.
@@ -47,4 +47,4 @@ Finally, We recommend you purcahse some headphones to ensure that you can hear t
 
 
 
-Phlyt Academy
+We are incredibly grateful to our student Luke Shannon for  offering us the use of this platform - *Phlyt Academy* - and teaching us how to use it for free. It is a wonderful gift and we are very excited to see the ways that it is already helping us make the Dhamma more accessible to the world.
