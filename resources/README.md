@@ -1,4 +1,4 @@
-# SEEING SECURITY EVERYWHERE:
+# SEEING SECURITY EVERYWHERE
 ## *Finding Refuge in the Storm of Uncertainty*
 
 ![Glowing Devas](https://storage.googleapis.com/vipassanahawaii-courses/buddha11.jpg)
