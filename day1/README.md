@@ -1,7 +1,9 @@
 # SEEING SECURITY EVERYWHERE:
 ## *Finding Refuge in the Storm of Uncertainty*
 
-![Golden Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha6.jpg)
+![Golden Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha6.jpg){:height="400px"}
+
+<img src="https://storage.googleapis.com/vipassanahawaii-courses/buddha6.jpg" width="400">
 
 ## FRIDAY, JUNE 12
 (All times Hawaii Standard = GTM -10)
