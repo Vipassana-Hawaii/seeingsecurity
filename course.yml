@@ -9,13 +9,17 @@ difficulty: BEGINNER
 badge-color: pink
 badge-icon: bulb
 labs:
+  - id: Welcome
+    title: Welcome
+    relative-path: welcome
+  - id: Resources
+    title: Resources
+    relative-path: resources
   - id: Day One
     title: Day One
-    length-in-minutes: 5
     relative-path: day1
   - id: Day Two
     title: Day Two
-    length-in-minutes: 5
     relative-path: day2
   - id: Day three
     title: Day Three
