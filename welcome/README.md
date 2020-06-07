@@ -45,6 +45,7 @@ Finally, We recommend you purcahse some headphones to ensure that you can hear t
 
  As usual, you will need to be very careful and considerate about the length of time your interviews take. Three individual interviews for this duration of retreat is quite generous and part of what we are looking forward to being able to offer in ways that may not be so easy in physical retreats of this size. Yogis will be joining a Zoom meeting at their allotted time so there will be no room for overlap or going over.
 
-
+### SCHEDULE
+The daily schedule will be posted each night for the next day. Please keep close track because some things may be subject to change. As we are experimenting with this format, we may decide that we need to change the timing of one thing or another for unforseen reasons. We will do our best to communicate the change to you with as much forwarning as possible. Most importantly, keep an eye on each day's posted schedule and links.
 
 We are incredibly grateful to our student Luke Shannon for  offering us the use of this platform - *Phlyt Academy* - and teaching us how to use it for free. It is a wonderful gift and we are very excited to see the ways that it is already helping us make the Dhamma more accessible to the world.
