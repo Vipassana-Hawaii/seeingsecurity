@@ -8,6 +8,8 @@ Here you will find links to a variety of recorded and print material that may he
 
 -[Recorded Instructions](https://vipassanahawaii.org/resources/instructions/)
 
+- [Walking Meditation Instructions from Steven](https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be)
+
 - [Recorded Talks](https://vipassanahawaii.org/resources/talks/)
 
 - [Metta Chant](https://storage.cloud.google.com/vipassanahawaii-courses/TradishMettaPLUS.pdf)
