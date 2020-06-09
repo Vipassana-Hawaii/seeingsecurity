@@ -38,10 +38,10 @@ If you do not have an interview tomorrow but would like to check in with a teach
 
 ## MEDITATION INSTRUCTIONS
 ### The Brahma Viharas
-[Dowload Audio File](https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV)
+[Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/1SteveDay1.WAV)
 or listen here -
 
-@audio https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV
+@audio https://storage.googleapis.com/vipassanahawaii-courses/1SteveDay1.WAV
 
 ### Walking Mediation Instructions
 [Walking Instructions Video of Steven on Youtube](https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be)

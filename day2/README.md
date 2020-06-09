@@ -42,13 +42,10 @@ If you do not have an interview on a given day but would like to check in with a
 
 ## MEDITATION INSTRUCTIONS
 ### The Brahma Viharas
-[Dowload Audio File](
-https://storage.cloud.google.com/vipassanahawaii-courses/2MicheleDay2.WAV
-)
+[Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/2MicheleDay2.WAV)
 or listen here -
 
-@audio
-https://storage.cloud.google.com/vipassanahawaii-courses/2MicheleDay2.WAV
+@audio https://storage.googleapis.com/vipassanahawaii-courses/2MicheleDay2.WAV
 
 
 ## DAY'S RECORDINGS
