@@ -26,7 +26,7 @@
   - Zoom Meeting ID: 520 425 3403
 - Jesse
   - Zoom Meeting ID: 780 053 9701
--Darine
+- Darine
   - Zoom Meeting ID: 897 955 4235
 
 Sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
