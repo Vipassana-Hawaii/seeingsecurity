@@ -18,6 +18,20 @@
 
 ### 10-11:30 - INTERVIEWS
 - Check email for Zoom details
+- Michele
+  - Zoom Meeting ID:
+- Steven
+  - Zoom Meeting ID: 262 497 0781
+- Pari
+  - Zoom Meeting ID: 520 425 3403
+- Jesse
+  - Zoom Meeting ID: 780 053 9701
+-Darine
+  - Zoom Meeting ID: 897 955 4235
+
+Sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
+- Please do not sign up on a day you have an interview scheduled with another teacher
+- Please sign up by 9pm the night before
 
 ### 1-2pm - DHAMMA OFFERING
 - [Zoom link here](https://us02web.zoom.us/j/81827270769?pwd=UFRtbW1vcnprNElpWFNOVFlka2RWZz09)
