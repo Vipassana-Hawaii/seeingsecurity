@@ -35,8 +35,8 @@ Sign-up for an interview with Darine using [this link](https://signup.com/go/Onr
 
 ### 1-2pm - DHAMMA OFFERING
 - [Zoom link here](https://us02web.zoom.us/j/81827270769?pwd=UFRtbW1vcnprNElpWFNOVFlka2RWZz09)
-Meeting ID: 780 053 9701
-Password: kammasaka
+- Meeting ID: 818 2727 0769
+- Password: 310128
 
 ### 3-4pm - EVENING DHAMMA HALL - METTA CHANT AND SIT
 - [Zoom link here](https://us02web.zoom.us/j/88611158960?pwd=MW5zMjRJTFpYV0l5cTVtUzA3YmI5UT09)
