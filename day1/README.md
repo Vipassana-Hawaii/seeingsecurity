@@ -47,7 +47,7 @@ Sign-up for an interview with Darine using [this link](https://signup.com/go/Onr
 [Audio Vipassana Instructions](
 https://storage.cloud.google.com/vipassanahawaii-courses/SteveDay1.WAV
 )
-@audio https://storage.cloud.google.com/vipassanahawaii-courses/SteveDay1.wav
+@audio https://storage.googleapis.com/vipassanahawaii-courses/SteveDay1.WAV
 
 
 ## DAY'S RECORDINGS
