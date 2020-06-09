@@ -1,7 +1,7 @@
 # SEEING SECURITY EVERYWHERE
 ## *Finding Refuge in the Storm of Uncertainty*
 
-![Marble Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha6.jpg)
+![Cool Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha8.jpg)
 
 ## FRIDAY, JUNE 12
 (All times Hawaii Standard = GTM -10)
@@ -42,13 +42,10 @@ If you do not have an interview on a given day but would like to check in with a
 
 ## MEDITATION INSTRUCTIONS
 ### The Brahma Viharas
-[Dowload Audio File](https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV)
+[Dowload Audio File](gs://vipassanahawaii-courses/5SteveDay5.WAV)
 or listen here -
 
-@audio https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV
-
-### Walking Mediation Instructions
-[Walking Instructions Video of Steven on Youtube](https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be)
+@audio gs://vipassanahawaii-courses/5SteveDay5.WAV
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
