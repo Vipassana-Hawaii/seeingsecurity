@@ -45,13 +45,13 @@ Sign-up for an interview with Darine using [this link](https://signup.com/go/Onr
 
 ## MEDITATION INSTRUCTIONS
 ### The Brahma Viharas
-[Dowload Instructions](https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV)
+[Dowload Audio File](https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV)
 or listen here -
 
 @audio https://storage.cloud.google.com/vipassanahawaii-courses/1SteveDay1.WAV
 
 ### Walking Mediation Instructions
-[Walking Instructions on Youtube](https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be)
+[Walking Instructions Video of Steven on Youtube](https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be)
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
