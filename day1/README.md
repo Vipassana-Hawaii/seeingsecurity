@@ -44,7 +44,12 @@ Sign-up for an interview with Darine using [this link](https://signup.com/go/Onr
 - Password: 220584
 
 ## MEDITATION INSTRUCTIONS
-AUDIO FILE?
+[Audio Vipassana Instructions](
+https://storage.cloud.google.com/vipassanahawaii-courses/SteveDay1.WAV
+)
+@audio
+https://storage.cloud.google.com/vipassanahawaii-courses/SteveDay1.WAV
+
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
