@@ -6,7 +6,7 @@
 ## FRIDAY, JUNE 12
 (All times Hawaii Standard = GTM -10)
 
-### 4-5am - EARLY MORNING DHAMMA HALL
+### 4-5am - EARLY-MORNING DHAMMA HALL
 - [Zoom link here](https://us02web.zoom.us/j/88090489511?pwd=VFRXY2hYRys4ZUl2UnR2K1daYnd3UT09)
 - Meeting ID: 880 9048 9511
 - Password: 016075
@@ -17,7 +17,7 @@
 - Password: 016075
 
 ### 10-11:30 - INTERVIEWS
-- Check email for Zoom details
+Check email for schedule details
 - Michele
   - Zoom Meeting ID:
 - Steven
@@ -49,5 +49,4 @@ AUDIO FILE?
 ## DAY'S RECORDINGS
 (Available after 9pm)
 
-Dhamma Talk Recording Link  \
-Q&A Recording Link  \
+Dhamma Talk Recording Link
