@@ -45,7 +45,7 @@ If you do not have an interview on a given day but would like to check in with a
 [Dowload Audio File](gs://vipassanahawaii-courses/5SteveDay5.WAV)
 or listen here -
 
-@audio gs://vipassanahawaii-courses/5SteveDay5.WAV
+@audio https://storage.googleapis.com/vipassanahawaii-courses/3SteveDay3.WAV
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
