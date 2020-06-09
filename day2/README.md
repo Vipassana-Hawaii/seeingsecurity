@@ -1,9 +1,7 @@
 # SEEING SECURITY EVERYWHERE
 ## *Finding Refuge in the Storm of Uncertainty*
 
-![Shiny Buddha](
-https://storage.cloud.google.com/vipassanahawaii-courses/buddha2.jpg
-)
+![Shiny Buddha](https://storage.cloud.google.com/vipassanahawaii-courses/buddha2.jpg)
 
 ## SATURDAY, JUNE 13
 (All times Hawaii Standard = GTM -10)
