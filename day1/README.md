@@ -37,7 +37,7 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Password: 220584
 
 ## MEDITATION INSTRUCTIONS
-### The Brahma Viharas
+### Guided Vipassana 
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/1SteveDay1.WAV)
 or listen here -
 
