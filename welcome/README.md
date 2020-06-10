@@ -32,14 +32,14 @@ Finally, We recommend you purcahse some headphones to ensure that you can hear t
 ### COMMUNICATION
  Please only use Zoom's chat function to communicate with host teacher only for technical issues. All Q&A sessions will be for live questions on video.
 
- If you need to reach out to the teachers for some reason or require technical support, please email information@vipassanahawaii.org and we will do our best to respond quickly. This is not an appropriate way to address emergency issues.
+We hope to post all necessary information on the Phlyt Academy website so there is no need to check your email. If you need to reach out to the teachers for some reason or require technical support, please email information@vipassanahawaii.org and we will do our best to respond quickly. This is not an appropriate way to address emergency issues.
 
  Normally on physical retreats we have emergency protocols for yogis experiencing more psychological/spiritual emergencies. In this online format there is no way to provide support in an emergency capacity. We *insist* that all yogis have a designated "life-line" - someone or some people who are prepared to receive calls from you at any hour of the night in order to help settle you down and comfort you into a better state of mind. Please communicate with that person in advance of the retreat and give them our contact details.
 
  ### INTERVIEWS
  We will also be doing individual interviews on a 3-day rotation so every yogi will have 3 interviews and the chance to interview with 3 of the teachers.
 
- Your interview times and Zoom details will be sent to you by email.
+ Your interview times and Zoom details for the next day will be posted on the Phlyt Academy website each evening.
 
  The interview schedule for this will be complex given the range of geographic location between all of us. Please be understanding in our limited ability to get you to interview with the teacher/s you want. We do not take requests and appreciate your confidence in the entire team.
 
@@ -48,4 +48,7 @@ Finally, We recommend you purcahse some headphones to ensure that you can hear t
 ### SCHEDULE
 The daily schedule will be posted each night for the next day. Please keep close track because some things may be subject to change. As we are experimenting with this format, we may decide that we need to change the timing of one thing or another for unforseen reasons. We will do our best to communicate the change to you with as much forwarning as possible. Most importantly, keep an eye on each day's posted schedule and links.
 
+### Thanks
 We are incredibly grateful to our student Luke Shannon for  offering us the use of this platform - *Phlyt Academy* - and teaching us how to use it for free. It is a wonderful gift and we are very excited to see the ways that it is already helping us make the Dhamma more accessible to the world.
+
+They are interested in all of our feedback and so any ideas or recommendations you have will be received with gratitude. They can also make some changes during the week if they are causing problems with the functionality of the tool so please keep the communication open!
