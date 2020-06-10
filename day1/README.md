@@ -23,9 +23,6 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Please do not sign up on a day you have an interview scheduled with another teacher.
 - Please sign up by 9pm the night before.
 
-- Darine' Zoom Meeting ID: 897 955 4235
-
-
 ### 1-2pm - DHAMMA OFFERING
 - [Zoom link here](https://us02web.zoom.us/j/81827270769?pwd=UFRtbW1vcnprNElpWFNOVFlka2RWZz09)
 - Meeting ID: 818 2727 0769
@@ -37,14 +34,15 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Password: 220584
 
 ## MEDITATION INSTRUCTIONS
-### Guided Vipassana 
+### Guided Vipassana
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/1SteveDay1.WAV)
 or listen here -
 
 @audio https://storage.googleapis.com/vipassanahawaii-courses/1SteveDay1.WAV
 
 ### Walking Mediation Instructions
-[Walking Instructions Video of Steven on Youtube](https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be)
+
+@video https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
