@@ -17,9 +17,3 @@ labs:
   - id: Day One
     title: Day One
     relative-path: day1
-  - id: Day Two
-    title: Day Two
-    relative-path: day2
-  - id: Day three
-    title: Day Three
-    relative-path: day3
