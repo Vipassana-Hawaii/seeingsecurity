@@ -14,9 +14,9 @@ labs:
   - id: Resources
     title: Resources
     relative-path: resources
-  - id: Day One
-    title: Day One
-    relative-path: day1
   - id: Interviews
     title: Interviews
     relative-path: interviewsday1
+  - id: Day One
+    title: Day One
+    relative-path: day1

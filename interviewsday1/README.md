@@ -51,7 +51,7 @@ Password:
 ### with Darine
 Zoom link here
 Meeting ID:
-Password:
+Password:  
 
 - 10:00
 - 10:15
