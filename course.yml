@@ -17,3 +17,6 @@ labs:
   - id: Day One
     title: Day One
     relative-path: day1
+  - id: Interviews
+    title: Interviews
+    relative-path: interviewsday1
