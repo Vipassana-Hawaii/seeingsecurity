@@ -3,7 +3,7 @@
 
 ![Mya Taung Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha7.jpg)
 
-## SUNDAY, JUNE 14
+## MONDAY, JUNE 15
 (All times Hawaii Standard = GTM -10)
 
 ### 4-5am - EARLY-MORNING DHAMMA HALL
