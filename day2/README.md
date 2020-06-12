@@ -17,18 +17,11 @@
 - Password: 016075
 
 ### 10-11:30 - INTERVIEWS
-Check email for your schedule details
+Check Interview page in course for your schedule details
 
-- [Zoom link here](https://us02web.zoom.us/j/86453169982?pwd=Y2tuVjRkekNXdjBUNVRyVllXRHp2UT09)
-- Meeting ID: 864 5316 9982
-- Password: kammasaka
-
-If you do not have an interview on a given day but would like to check in with a teacher, sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
+If you do not have an interview tomorrow but would like to check in with a teacher, sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
 - Please do not sign up on a day you have an interview scheduled with another teacher
 - Please sign up by 9pm the night before
-
-- Darine' Zoom Meeting ID: 897 955 4235
-
 
 ### 1-2pm - DHAMMA OFFERING
 - [Zoom link here](https://us02web.zoom.us/j/81827270769?pwd=UFRtbW1vcnprNElpWFNOVFlka2RWZz09)
