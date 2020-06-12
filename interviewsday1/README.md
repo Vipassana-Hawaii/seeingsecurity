@@ -1,6 +1,6 @@
 # INTERVIEWS
 
-There will be no interviews on the first day, but every day forward on this lab page we will post all the info you need to prepare for your interview time:
+There will be no interviews on the first day, but every day forward on this lab page we will post all the info you need to prepare for your interview time. It will look something like this:
 
 
 ### with Michele
@@ -51,7 +51,7 @@ Password:
 ### with Darine
 Zoom link here
 Meeting ID:
-Password:  
+Password:
 
 - 10:00
 - 10:15
