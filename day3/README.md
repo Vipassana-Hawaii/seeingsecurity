@@ -3,7 +3,7 @@
 
 ![Cool Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha8.jpg)
 
-## FRIDAY, JUNE 12
+## SUNDAY, JUNE 14
 (All times Hawaii Standard = GTM -10)
 
 ### 4-5am - EARLY-MORNING DHAMMA HALL
@@ -17,17 +17,11 @@
 - Password: 016075
 
 ### 10-11:30 - INTERVIEWS
-Check email for your schedule details
+Check Interview page in course for your schedule details
 
-- [Zoom link here](https://us02web.zoom.us/j/86453169982?pwd=Y2tuVjRkekNXdjBUNVRyVllXRHp2UT09)
-- Meeting ID: 864 5316 9982
-- Password: kammasaka
-
-If you do not have an interview on a given day but would like to check in with a teacher, sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
-- Please do not sign up on a day you have an interview scheduled with another teacher
-- Please sign up by 9pm the night before
-
-- Darine' Zoom Meeting ID: 897 955 4235
+If you do not have an interview tomorrow but would like to check in with a teacher, sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
+- Please do not sign up on a day you have an interview scheduled with another teacher.
+- Please sign up by 9pm the night before.
 
 
 ### 1-2pm - DHAMMA OFFERING
@@ -42,7 +36,7 @@ If you do not have an interview on a given day but would like to check in with a
 
 ## MEDITATION INSTRUCTIONS
 ### The Brahma Viharas
-[Dowload Audio File](https://storage.cloud.google.com/vipassanahawaii-courses/3SteveDay3.WAV)
+[Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/3SteveDay3.WAV)
 or listen here -
 
 @audio https://storage.googleapis.com/vipassanahawaii-courses/3SteveDay3.WAV
