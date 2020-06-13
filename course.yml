@@ -18,8 +18,8 @@ labs:
     title: Interviews
     relative-path: interviewschedule
   - id: Day One
-    title: Day One
+    title: Day One - Friday, 12
     relative-path: day1
-  - id: Day Two 
+  - id: Day Two - Saturday, 13
     title: Day Two
     relative-path: day2
