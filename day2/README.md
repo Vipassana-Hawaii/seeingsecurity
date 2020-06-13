@@ -20,8 +20,8 @@
 Check Interview page in course for your schedule details
 
 If you do not have an interview tomorrow but would like to check in with a teacher, sign-up for an interview with Darine using [this link](https://signup.com/go/OnrFSvH)
-- Please do not sign up on a day you have an interview scheduled with another teacher
-- Please sign up by 9pm the night before
+- Please do not sign up on a day you have an interview scheduled with another teacher.
+- Please sign up by 9pm the night before.
 
 ### 1-2pm - DHAMMA OFFERING
 - [Zoom link here](https://us02web.zoom.us/j/81827270769?pwd=UFRtbW1vcnprNElpWFNOVFlka2RWZz09)
