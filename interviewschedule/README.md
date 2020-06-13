@@ -6,6 +6,8 @@ All Times Hawaii Standard GMT-10
 
 You will be expected to sign in to the meeting at the specified time. Please wait in the waiting room until you are let in.
 
+We will try to collect the links for all the teachers BUT THEY ARE NOT NECESSARY. Just open your Zoom app, click "JOIN" and type in the Meeting ID number.
+
 ### with Michele
 Zoom Meeting ID: 357 557 0458
 - 10-10:15 *Roberta  P*
