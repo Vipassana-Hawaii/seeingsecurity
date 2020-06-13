@@ -45,6 +45,6 @@ or listen here -
 @video https://www.youtube.com/watch?v=Cg_JEOsbuRo&feature=youtu.be
 
 ## DAY'S RECORDINGS
-(Available after 9pm)
 
-Dhamma Talk Recording Link
+Dhamma Offering Recording
+@video https://us02web.zoom.us/rec/share/5O57bLbbrExJQK_hs2fWSPEiOZrcT6a80CcZqfUOmk6nlYKOJXjkbA950q0GMtze
