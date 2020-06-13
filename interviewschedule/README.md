@@ -10,6 +10,7 @@ You will be expected to sign in to the meeting at the specified time. Please wai
 
 ### with Michele
 [Zoom Meeting Link](https://us02web.zoom.us/j/3575570458)
+
 Zoom Meeting ID: 357 557 0458
 - 10-10:15 *Roberta  P*
 - 10:15-10:30 *Candace  C*
@@ -19,6 +20,7 @@ Zoom Meeting ID: 357 557 0458
 
 ### with Steven
 [Zoom Meeting Link](https://us02web.zoom.us/j/2624970781)
+
 Zoom Meeting ID: 262 497 0781
 - 10-10:15 *Susan F*
 - 10:15-10:30 *Kate  B*
@@ -28,6 +30,7 @@ Zoom Meeting ID: 262 497 0781
 
 ### with Jesse
 [Zoom Meeting Link](https://us02web.zoom.us/j/7800539701)
+
 Zoom Meeting ID: 780 053 9701
 - 10-10:15 *Arlene  W*
 - 10:15-10:30 *Robert  W*
@@ -36,6 +39,7 @@ Zoom Meeting ID: 780 053 9701
 
 ### with Pari
 [Zoom Meeting Link](https://us02web.zoom.us/j/5204253403)
+
 Zoom Meeting ID: 520 425 3403
 - 7:30-7:45am *Fabrizio G* **
 - 10-10:15 *Niya K*
@@ -44,7 +48,8 @@ Zoom Meeting ID: 520 425 3403
 - 10:55-11:10 *Mandy  K*
 
 ### with Darine
-[Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)  
+[Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
+
 Zoom Meeting ID: 897 955 4235
 - 10-10:15 *Phil M*
 - 10:15-10:30 **
@@ -58,6 +63,8 @@ All Times Hawaii Standard GMT-10
 You will be expected to sign in to the meeting at the specified time. Please wait in the waiting room until you are let in.
 
 ### with Michele
+[Zoom Meeting Link](https://us02web.zoom.us/j/3575570458)
+
 Zoom Meeting ID: 357 557 0458
 - 10-10:15 *Lorraine R*
 - 10:15-10:30 *Carol B*
@@ -67,6 +74,8 @@ Zoom Meeting ID: 357 557 0458
 
 
 ### with Steven
+[Zoom Meeting Link](https://us02web.zoom.us/j/2624970781)
+
 Zoom Meeting ID: 262 497 0781
 - 10-10:15 *Neil F*
 - 10:15-10:30 *Margo F*
@@ -75,6 +84,8 @@ Zoom Meeting ID: 262 497 0781
 - 11:20-11:35 *David H*
 
 ### with Jesse
+[Zoom Meeting Link](https://us02web.zoom.us/j/7800539701)
+
 Zoom Meeting ID: 780 053 9701
 - 10-10:15 *Cynthia C*
 - 10:15-10:30 *Mollie C*
@@ -84,6 +95,8 @@ Zoom Meeting ID: 780 053 9701
 - 7:00-7:15 *Rahma M* **
 
 ### with Pari
+[Zoom Meeting Link](https://us02web.zoom.us/j/5204253403)
+
 Zoom Meeting ID: 520 425 3403
 - 10-10:15 *Santiago C*
 - 10:15-10:30 *Courtney R*
@@ -92,6 +105,8 @@ Zoom Meeting ID: 520 425 3403
 - 11:20-11:35 *Sarah W*
 
 ### with Darine
+[Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
+
 Zoom Meeting ID: 897 955 4235
 - 10-10:15 **
 - 10:15-10:30 **
@@ -105,6 +120,8 @@ All Times Hawaii Standard GMT-10
 You will be expected to sign in to the meeting at the specified time. Please wait in the waiting room until you are brought into the meeting.
 
 ### with Michele
+[Zoom Meeting Link](https://us02web.zoom.us/j/3575570458)
+
 Zoom Meeting ID: 357 557 0458
 - 10-10:15 *Jacqueline M*
 - 10:15-10:30 *Amanda W*
@@ -113,6 +130,8 @@ Zoom Meeting ID: 357 557 0458
 - 11:20-11:35 *Lowel O*
 
 ### with Steven
+[Zoom Meeting Link](https://us02web.zoom.us/j/2624970781)
+
 Zoom Meeting ID: 262 497 0781
 - 10-10:15 *Carole W*
 - 10:15-10:30 *Christine W*
@@ -121,6 +140,8 @@ Zoom Meeting ID: 262 497 0781
 - 11:20-11:35 *Kolin F*
 
 ### with Jesse
+[Zoom Meeting Link](https://us02web.zoom.us/j/7800539701)
+
 Zoom Meeting ID: 780 053 9701
 - 10-10:15 *Thanh H*
 - 10:15-10:30 *Xuan H*
@@ -129,6 +150,8 @@ Zoom Meeting ID: 780 053 9701
 - 11:20-11:35 *William B*
 
 ### with Pari
+[Zoom Meeting Link](https://us02web.zoom.us/j/5204253403)
+
 Zoom Meeting ID: 520 425 3403
 - 10-10:15 *Joanna G*
 - 10:15-10:30 *Kei T*
@@ -137,6 +160,8 @@ Zoom Meeting ID: 520 425 3403
 - 11:20-11:35 *Kathy I* **
 
 ### with Darine
+[Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
+
 Zoom Meeting ID: 897 955 4235
 - 10-10:15 **
 - 10:15-10:30 **
