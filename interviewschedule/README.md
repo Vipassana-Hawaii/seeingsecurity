@@ -1,4 +1,6 @@
 # INTERVIEWS
+![Kohala Buddha](https://storage.googleapis.com/vipassanahawaii-courses/BuddhaRainbowKohala.jpg)
+
 ## Saturday, June 13th
 All Times Hawaii Standard GMT-10
 
