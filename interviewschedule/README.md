@@ -26,7 +26,7 @@ Zoom Meeting ID: 262 497 0781
 - 10:15-10:30 *Kate  B*
 - 10:40-10:55 *Kim A*
 - 10:55-11:10 *Mary Z*
-- 6:00-6:15pm *Alena  S* **
+- 6:00-6:15pm *Alena  S*
 
 ### with Jesse
 [Zoom Meeting Link](https://us02web.zoom.us/j/7800539701)
