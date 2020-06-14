@@ -92,7 +92,7 @@ Zoom Meeting ID: 780 053 9701
 - 10:40-10:55 *Susan M*
 - 10:55-11:10 *Phil M*
 - 11:20-11:35 *Tracey G*
-- 7:00-7:15 *Rahma M* **
+- 7:00-7:15pm *Rahma M*
 
 ### with Pari
 [Zoom Meeting Link](https://us02web.zoom.us/j/5204253403)
@@ -112,7 +112,7 @@ Zoom Meeting ID: 897 955 4235
 - 10:15-10:30 *Victor*
 - 10:40-10:55 *Mandy*
 - 10:55-11:10 *Kei*
-- 11:20-11:35 ** 
+- 11:20-11:35 **
 
 ## Monday, June 15th
 All Times Hawaii Standard GMT-10
@@ -156,7 +156,7 @@ Zoom Meeting ID: 520 425 3403
 - 10:15-10:30 *Kei T*
 - 10:40-10:55 *Darcey I*
 - 10:55-11:10 *Trey H*
-- 11:20-11:35 *Sherre* **
+- 11:20-11:35 *Sherre*
 
 ### with Darine
 [Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
