@@ -98,7 +98,7 @@ Zoom Meeting ID: 780 053 9701
 [Zoom Meeting Link](https://us02web.zoom.us/j/5204253403)
 
 Zoom Meeting ID: 520 425 3403
-- 10-10:15 *Santiago C*
+- 10-10:15 *Matt R*
 - 10:15-10:30 *Courtney R*
 - 10:40-10:55 *Luca S*
 - 10:55-11:10 *Sky H*
@@ -143,8 +143,8 @@ Zoom Meeting ID: 262 497 0781
 [Zoom Meeting Link](https://us02web.zoom.us/j/7800539701)
 
 Zoom Meeting ID: 780 053 9701
-- 10-10:15 *Thanh H*
-- 10:15-10:30 *Xuan H*
+- 10-10:15
+- 10:15-10:30 *Victor*
 - 10:40-10:55 *Sandra P*
 - 10:55-11:10 *Billie Jean M*
 - 11:20-11:35 *William B*
@@ -157,7 +157,7 @@ Zoom Meeting ID: 520 425 3403
 - 10:15-10:30 *Kei T*
 - 10:40-10:55 *Darcey I*
 - 10:55-11:10 *Trey H*
-- 11:20-11:35 *Kathy I* **
+- 11:20-11:35 *Sherre* **
 
 ### with Darine
 [Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
