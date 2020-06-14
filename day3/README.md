@@ -35,7 +35,12 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Password: 220584
 
 ## MEDITATION INSTRUCTIONS
-### The Brahma Viharas
+
+### Early Morning Instructions with Darine
+[Link to Zoom Video](https://us02web.zoom.us/rec/share/vp12MLj_5nlJWdLI-B3vA6p7Drbheaa82iMfq6cIyBzdGCa9qXCryh0ocIUR0kjy
+)
+
+### The Brahma Viharas with Steve
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/3SteveDay3.WAV)
 or listen here -
 
