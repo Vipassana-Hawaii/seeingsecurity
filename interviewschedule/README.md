@@ -112,7 +112,7 @@ Zoom Meeting ID: 897 955 4235
 - 10:15-10:30 *Victor*
 - 10:40-10:55 *Mandy*
 - 10:55-11:10 *Kei*
-- 11:20-11:35 *Sherre* **
+- 11:20-11:35 ** 
 
 ## Monday, June 15th
 All Times Hawaii Standard GMT-10
