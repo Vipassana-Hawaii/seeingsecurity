@@ -108,10 +108,10 @@ Zoom Meeting ID: 520 425 3403
 [Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
 
 Zoom Meeting ID: 897 955 4235
-- 10-10:15 **
-- 10:15-10:30 **
-- 10:40-10:55 **
-- 10:55-11:10 **
+- 10-10:15 *Zoe*
+- 10:15-10:30 *Victor*
+- 10:40-10:55 *Mandy*
+- 10:55-11:10 *Kei*
 - 11:20-11:35 *Sherre* **
 
 ## Monday, June 15th
