@@ -35,7 +35,7 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Password: 220584
 
 ## MEDITATION INSTRUCTIONS
-### The Brahma Viharas
+### The Brahma Viharas with Michele
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/4MicheleDay4.WAV)
 or listen here -
 
@@ -44,4 +44,6 @@ or listen here -
 ## DAY'S RECORDINGS
 (Available after 9pm)
 
-Dhamma Talk Recording Link
+Dhamma Talk Recording
+
+Metta Chant Recording
