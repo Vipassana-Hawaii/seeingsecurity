@@ -35,6 +35,13 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Password: 220584
 
 ## MEDITATION INSTRUCTIONS
+
+### Early Morning Instructions with Darine
+[Watch online](https://us02web.zoom.us/rec/play/tZwkJrihp2g3TtyQtwSDAPUqW425KPms2ykd8qcLmkm1VSFQMwKiYrdEaucjIWG6JzArPNh7t9dRhlBX?autoplay=true&startTime=1592228162000)
+
+### Mid-Morning Instructions with Pari
+[Watch online](https://us02web.zoom.us/rec/play/7MB7JeCoqzk3S4CduASDA6R7W9S-J_6s1iIX_qVbzke9AngGZwalZLUbNuA3wk21ijl_ZTtWzg5EGegv?autoplay=true&startTime=1592235640000)
+
 ### The Brahma Viharas with Michele
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/4MicheleDay4.WAV)
 or listen here -
