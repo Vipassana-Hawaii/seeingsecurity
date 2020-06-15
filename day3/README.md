@@ -49,4 +49,4 @@ or listen here -
 ## DAY'S RECORDINGS
 (Available after 9pm)
 
-Dhamma Talk Recording Link
+[Dhamma Talk Recording Link](https://us02web.zoom.us/rec/play/u5Z5dr2hpzg3SdWd4wSDC_ErW9S4K6qs0yAb_KIOyUi1UyFWNQemYboRZrHQCFISsO74j07VSznhV1RZ?autoplay=true&startTime=1592174926000)
