@@ -1,7 +1,7 @@
 # INTERVIEWS
 ![Kohala Buddha](https://storage.googleapis.com/vipassanahawaii-courses/BuddhaRainbowKohala.jpg)
 
-## Tuesda, June 16th
+## Tuesday, June 16th
 All Times Hawaii Standard GMT-10
 
 You will be expected to sign in to the meeting at the specified time. Please wait in the waiting room until you are let in.
@@ -14,22 +14,21 @@ Zoom Meeting ID: 357 557 0458
 - 10:15-10:30 *Kate  B*
 - 10:40-10:55 *Kim A*
 - 10:55-11:10 *Mary  Z*
-- 6:o0-6:15pm *Alena  S*
+- 11:20-11:35 *Arlene  W*
+- 6:00-6:15pm *Alena  S*
 
 ### with Steven
 [Zoom Meeting Link](https://us02web.zoom.us/j/2624970781)
 
 Zoom Meeting ID: 262 497 0781
-- 10-10:15 *Arlene  W*
-- 10:15-10:30 *Robert  W*
-- 10:40-10:55 *Zoe  N*
-- 10:55-11:10 *Bruce C*
+- 5:00-5:15pm *Zoe  N*
+- 5:15-5::30pm *Bruce C*
 
 ### with Jesse
 [Zoom Meeting Link](https://us02web.zoom.us/j/7800539701)
 
 Zoom Meeting ID: 780 053 9701
-- 7:30-7:45am *Fabrizio G* **
+- 7:30-7:45am *Fabrizio G*
 - 10-10:15 *Niya K*
 - 10:15-10:30 *Eleanor P*
 - 10:40-10:55 *Tizneem  J*
@@ -69,6 +68,7 @@ Zoom Meeting ID: 357 557 0458
 - 10:40-10:55 *Rebecca W*
 - 10:55-11:10 *Gloria W*
 - 11:20-11:35 *David H*
+- 11:35-11:55 *Robert  W*
 
 
 ### with Steven
@@ -132,7 +132,7 @@ Zoom Meeting ID: 357 557 0458
 
 Zoom Meeting ID: 262 497 0781
 - 10:00-10:15 *Quynh N*
-- 10:15-10:30 *Victor*
+- 10:15-10:30 *Victor A*
 - 10:40-10:55 *Sandra P*
 - 10:55-11:10 *Billie Jean M*
 - 11:20-11:35 *William B*
