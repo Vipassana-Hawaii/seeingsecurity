@@ -37,10 +37,9 @@ If you do not have an interview tomorrow but would like to check in with a teach
 ## MEDITATION INSTRUCTIONS
 
 ### Early Morning Instructions with Darine
-[Watch online]
 
 ### Mid-Morning Instructions with Pari
-[Watch online]
+
 
 ### The Brahma Viharas with Steven
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/5SteveDay5.WAV)
