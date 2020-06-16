@@ -29,3 +29,6 @@ labs:
   - id: DayFour
     title: Day Four - Monday, 15
     relative-path: day4
+  - id: DayFive
+    title: Day Five - Tuesday, 16
+    relative-path: day5 
