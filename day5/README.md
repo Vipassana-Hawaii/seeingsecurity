@@ -44,10 +44,10 @@ or listen here -
 
 ### Early Morning Instructions with Darine
 
-**
+[Listen Here](https://us02web.zoom.us/rec/play/u5QqJe35rjk3E4DD4wSDAaBwW427evqs2iEa_vsImUuyVXEHOwb0b7IUZ-RNtunV0KOGa6bHMVJ9Sg_H?autoplay=true&startTime=1592314816000)
 
 ### Mid-Morning Instructions with Pari
-**
+[Listen Here](https://us02web.zoom.us/rec/play/vZIoJLr5_zI3SYDG4wSDBqUqW9W5KKms03MerKFfzBvgBXcHM1fzZ-ERZeVo4uyWKgtWPwKAauufrkjj?autoplay=true&startTime=1592321334000)
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
