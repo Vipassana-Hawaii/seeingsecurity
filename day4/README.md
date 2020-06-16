@@ -51,6 +51,6 @@ or listen here -
 ## DAY'S RECORDINGS
 (Available after 9pm)
 
-Dhamma Talk Recording
+[Dhamma Talk Recording](https://us02web.zoom.us/rec/play/6McsIe-qqW03HdHB5ASDU_UsW47pePqs2nRM_PNcy02xVSYFNVqlb-FHarY0pyRxmKjST6hvj0ShksDh?autoplay=true&startTime=1592261615000)
 
-Metta Chant Recording
+[Metta Chant Recording](https://us02web.zoom.us/rec/play/6ccsdu6gqG03GtXBswSDBqQqW46-f6yshiFMrvALzhy2AiIAOgD3ZbFEZOTRnExg-nBo9K3SqUU63_83?autoplay=true&startTime=1592269207000)
