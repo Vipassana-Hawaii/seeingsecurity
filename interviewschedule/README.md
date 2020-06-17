@@ -97,7 +97,7 @@ Zoom Meeting ID: 780 053 9701
 [Zoom Meeting Link](https://us02web.zoom.us/j/5204253403)
 
 Zoom Meeting ID: 520 425 3403
-- 10-10:15 *Lorraine R*
+- 10-10:15 *Lucinda M*
 - 10:15-10:30 *Carol B*
 - 10:40-10:55 *Gary K*
 - 10:55-11:10 *Mathew B*
@@ -107,9 +107,9 @@ Zoom Meeting ID: 520 425 3403
 [Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
 
 Zoom Meeting ID: 897 955 4235
-- 10-10:15 **
-- 10:15-10:30 **
-- 10:40-10:55 **
+- 10-10:15 *Courtney R*
+- 10:15-10:30 *Kate B*
+- 10:40-10:55 *Mandy*
 - 10:55-11:10 **
 - 11:20-11:35 **
 
@@ -165,5 +165,5 @@ Zoom Meeting ID: 897 955 4235
 - 10-10:15 **
 - 10:15-10:30 **
 - 10:40-10:55 **
-- 10:55-11:10 **
-- 11:20-11:35 **
+- 10:55-11:10 *Mandy*
+- 11:20-11:35 *Alena*
