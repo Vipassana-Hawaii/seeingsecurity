@@ -42,11 +42,5 @@ or listen here -
 
 @audio https://storage.googleapis.com/vipassanahawaii-courses/6MicheleDay6.WAV
 
-### Early Morning Instructions with Darine
-
-
-### Mid-Morning Instructions with Pari
-
-
 ## DAY'S RECORDINGS
 (Available after 9pm)
