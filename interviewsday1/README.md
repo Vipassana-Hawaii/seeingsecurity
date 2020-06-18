@@ -152,10 +152,10 @@ Zoom Meeting ID: 780 053 9701
 
 Zoom Meeting ID: 520 425 3403
 - 10-10:15 *Jacqueline M*
-- 10:15-10:30 *Amanda W*
 - 10:40-10:55 *Easwar M*
 - 10:55-11:10 *Karen B*
 - 11:20-11:35 *Lowel O*
+- 12:30-12:45 *Amanda W*
 
 ### with Darine
 [Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
@@ -164,5 +164,5 @@ Zoom Meeting ID: 897 955 4235
 - 10-10:15 **
 - 10:15-10:30 **
 - 10:40-10:55 **
-- 10:55-11:10 **
-- 11:20-11:35 **
+- 10:55-11:10 *Mandy*
+- 11:20-11:35 *Alena*
