@@ -6,8 +6,6 @@
 ## WEDNESDAY, JUNE 17
 (All times Hawaii Standard = GTM -10)
 
-@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV
-
 ### 4-5am - EARLY-MORNING DHAMMA HALL
 - [Zoom link here](https://us02web.zoom.us/j/88090489511?pwd=VFRXY2hYRys4ZUl2UnR2K1daYnd3UT09)
 - Meeting ID: 880 9048 9511
@@ -46,3 +44,6 @@ or listen here -
 
 ## DAY'S RECORDINGS
 Available after 6pm
+
+Lone Yogi Chanting at Thaung Pilar Monastery in the Sagaing Hills of Burma
+@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV
