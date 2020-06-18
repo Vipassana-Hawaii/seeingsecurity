@@ -11,10 +11,15 @@
 - Meeting ID: 880 9048 9511
 - Password: 016075
 
+[Recording](https://us02web.zoom.us/rec/share/otB3M-DR7E9Je5GX7EvwdogkMrjJeaa8gSQYq6FfxEcEhfHrVqxjGYIodjWL0AUM)
+
 ### 6-7am - MID-MORNING DHAMMA HALL
 - [Zoom link here](https://us02web.zoom.us/j/87414865834?pwd=Nzl2a3d1Y0g1NldpRmkrTWF0Z2pBQT09)
 - Meeting ID: 874 1486 5834
 - Password: 016075
+
+[Recording](https://us02web.zoom.us/rec/share/_dVrKuzc1FxLS6fpzmWAAqVxF5TJX6a8gSNM_6ZemktISJj-vHMGyui00GqRaWgq)
+
 
 ### 10-11:30 - INTERVIEWS
 Check Interview page in course for your schedule details
@@ -34,13 +39,10 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Meeting ID: 886 1115 8960
 - Password: 220584
 
+[Recording](https://us02web.zoom.us/rec/share/y-dJceDZ_z9LeYHB43PjVLIREr-iT6a823dLq_ZYz0ucJLnz7-O9KMTLmhhgKsNY
+)
+
 ## MEDITATION INSTRUCTIONS
-
-### Early Morning Instructions with Darine
-[Watch online](https://us02web.zoom.us/rec/play/tZwkJrihp2g3TtyQtwSDAPUqW425KPms2ykd8qcLmkm1VSFQMwKiYrdEaucjIWG6JzArPNh7t9dRhlBX?autoplay=true&startTime=1592228162000)
-
-### Mid-Morning Instructions with Pari
-[Watch online](https://us02web.zoom.us/rec/play/7MB7JeCoqzk3S4CduASDA6R7W9S-J_6s1iIX_qVbzke9AngGZwalZLUbNuA3wk21ijl_ZTtWzg5EGegv?autoplay=true&startTime=1592235640000)
 
 ### The Brahma Viharas with Michele
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/4MicheleDay4.WAV)
@@ -51,6 +53,4 @@ or listen here -
 ## DAY'S RECORDINGS
 (Available after 9pm)
 
-[Dhamma Talk Recording](https://us02web.zoom.us/rec/play/6McsIe-qqW03HdHB5ASDU_UsW47pePqs2nRM_PNcy02xVSYFNVqlb-FHarY0pyRxmKjST6hvj0ShksDh?autoplay=true&startTime=1592261615000)
-
-[Metta Chant Recording](https://us02web.zoom.us/rec/play/6ccsdu6gqG03GtXBswSDBqQqW46-f6yshiFMrvALzhy2AiIAOgD3ZbFEZOTRnExg-nBo9K3SqUU63_83?autoplay=true&startTime=1592269207000)
+[Dhamma Talk Recording](https://us02web.zoom.us/rec/share/5N4kdu2o5n1ORYHuy0reQukGRpW_X6a8hyRL8_cIxU5_dTa3VHByUsFyg-NnpFK1)
