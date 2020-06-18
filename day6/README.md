@@ -11,10 +11,14 @@
 - Meeting ID: 880 9048 9511
 - Password: 016075
 
+[Recording Link](https://us02web.zoom.us/rec/play/vZwqcemg-zs3H9KWuQSDV_UoW43pfPqs2yYX_PRfxE2wViMBZgbyNLsQN-GQ-BAR3aGG4l0otHtBqyVQ?autoplay=true&startTime=1592399070000)
+
 ### 6-7am - MID-MORNING DHAMMA HALL
 - [Zoom link here](https://us02web.zoom.us/j/87414865834?pwd=Nzl2a3d1Y0g1NldpRmkrTWF0Z2pBQT09)
 - Meeting ID: 874 1486 5834
 - Password: 016075
+
+[Recording Link](https://us02web.zoom.us/rec/play/78ctc-z8qWo3T4Cd5QSDVqRwW460JqyshnMa_qcFmkyzB3YKOlCuM7VGN-MNXpy27x3JLeGVx9wan0uF?autoplay=true&startTime=1592406692000)
 
 ### 10-11:30 - INTERVIEWS
 Check Interview page in course for your schedule details
@@ -43,4 +47,4 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/6MicheleDay6.WAV
 
 ## DAY'S RECORDINGS
-(Available after 9pm)
+[Steve's Dhamma Talk](https://us02web.zoom.us/rec/play/vZN7I7z-p2k3SYGRswSDUad4W42_Jv2s0ikY-PUEyx21V3QGNlulN7FENOU8TzBvEn8tuOF6F4KG8VTF?autoplay=true&startTime=1592434577000)
