@@ -3,7 +3,7 @@
 
 ![Mandalay Hill Buddha](https://storage.googleapis.com/vipassanahawaii-courses/Buddha15.jpg)
 
-## WEDNESDAY, JUNE 17
+## THURSDAY, JUNE 18
 (All times Hawaii Standard = GTM -10)
 
 ### 4-5am - EARLY-MORNING DHAMMA HALL
@@ -45,5 +45,5 @@ or listen here -
 ## DAY'S RECORDINGS
 Available after 6pm
 
-Lone Yogi Chanting at Thaung Pilar Monastery in the Sagaing Hills of Burma  
+Lone Yogi Chanting at Thaung Pilar Monastery in the Sagaing Hills of Burma
 @video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV
