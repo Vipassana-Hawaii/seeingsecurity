@@ -45,7 +45,6 @@ or listen here -
 ## DAY'S RECORDINGS
 Available after 6pm
 
-@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV
-
+@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV  
 
 Lone Yogi Chanting at Thaung Pilar Monastery in the Sagaing Hills of Burma.

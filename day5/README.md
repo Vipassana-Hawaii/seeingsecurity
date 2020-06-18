@@ -44,12 +44,14 @@ or listen here -
 
 ### Early Morning Instructions with Darine
 
-[Listen Here](https://us02web.zoom.us/rec/play/u5QqJe35rjk3E4DD4wSDAaBwW427evqs2iEa_vsImUuyVXEHOwb0b7IUZ-RNtunV0KOGa6bHMVJ9Sg_H?autoplay=true&startTime=1592314816000)
+[Listen Here](https://us02web.zoom.us/rec/share/otB3M-DR7E9Je5GX7EvwdogkMrjJeaa8gSQYq6FfxEcEhfHrVqxjGYIodjWL0AUM)
+
 
 ### Mid-Morning Instructions with Pari
-[Listen Here](https://us02web.zoom.us/rec/play/vZIoJLr5_zI3SYDG4wSDBqUqW9W5KKms03MerKFfzBvgBXcHM1fzZ-ERZeVo4uyWKgtWPwKAauufrkjj?autoplay=true&startTime=1592321334000)
+[Listen Here](https://us02web.zoom.us/rec/share/_dVrKuzc1FxLS6fpzmWAAqVxF5TJX6a8gSNM_6ZemktISJj-vHMGyui00GqRaWgq)
+
 
 ## DAY'S RECORDINGS
 (Available after 9pm)
 
-[Dhamma Talk Recording](https://us02web.zoom.us/rec/play/v8Yld-j6rmo3T9acsgSDAqMoW427KqOs0yAe8_dYn07kVHgKMVShMuAVZOPBTb4gLru5EBjQBaYRfXVL?autoplay=true&startTime=1592347888000)
+[Dhamma Talk Recording](https://us02web.zoom.us/rec/share/4pZtCPLVznpOQ9aQq2_RWfAiT77fT6a8gCkW8qVfmEau42V4mg4P_cVd5w6VqFHb)

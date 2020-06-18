@@ -11,7 +11,8 @@
 - Meeting ID: 880 9048 9511
 - Password: 016075
 
-[Recording Link](https://us02web.zoom.us/rec/play/vZwqcemg-zs3H9KWuQSDV_UoW43pfPqs2yYX_PRfxE2wViMBZgbyNLsQN-GQ-BAR3aGG4l0otHtBqyVQ?autoplay=true&startTime=1592399070000)
+[Recording Link](https://us02web.zoom.us/rec/share/yNdMBpXq3HJLGZ3fxGyDVPIZNYnceaa80yUa_KFZn7HacJj-FHXXMFNN_K3tiCA)
+
 
 ### 6-7am - MID-MORNING DHAMMA HALL
 - [Zoom link here](https://us02web.zoom.us/j/87414865834?pwd=Nzl2a3d1Y0g1NldpRmkrTWF0Z2pBQT09)
@@ -38,6 +39,9 @@ If you do not have an interview tomorrow but would like to check in with a teach
 - Meeting ID: 886 1115 8960
 - Password: 220584
 
+[Recording](https://us02web.zoom.us/rec/share/6cJ8caPvq3xOGJH1-l2FRfMzEZTLX6a80XUb-PZYmkmT0iRe1ZJYKEeaS_DRWw-7)
+
+
 ## MEDITATION INSTRUCTIONS
 
 ### The Brahma Viharas with Michele
@@ -47,4 +51,4 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/6MicheleDay6.WAV
 
 ## DAY'S RECORDINGS
-[Steve's Dhamma Talk](https://us02web.zoom.us/rec/play/vZN7I7z-p2k3SYGRswSDUad4W42_Jv2s0ikY-PUEyx21V3QGNlulN7FENOU8TzBvEn8tuOF6F4KG8VTF?autoplay=true&startTime=1592434577000)
+[Steve's Dhamma Talk](https://us02web.zoom.us/rec/share/3Y9oHqHc8FJLco3U8x7DeJN-L7veeaa8hHMd-vRYxE001tGD0KQ0EEBpyXkGi0pW)
