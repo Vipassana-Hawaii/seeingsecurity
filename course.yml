@@ -38,3 +38,6 @@ labs:
   - id: Dayseven
     title: Day Seven - Thursday, 18
     relative-path: day7
+  - id: Dayeight
+    title: Day Eight - Friday, 19
+    relative-path: day8 

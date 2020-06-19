@@ -11,7 +11,7 @@
 - Meeting ID: 880 9048 9511
 - Password: 016075
 
-[Recording Link](https://us02web.zoom.us/rec/share/yNdMBpXq3HJLGZ3fxGyDVPIZNYnceaa80yUa_KFZn7HacJj-FHXXMFNN_K3tiCA)
+[Recording Link](https://us02web.zoom.us/rec/share/wNZRLJLQ7m9IHons7mjER41wGrrqX6a8hiAW__sKyE5PLX5rbK-nO3xjHJIqGk7q)
 
 
 ### 6-7am - MID-MORNING DHAMMA HALL

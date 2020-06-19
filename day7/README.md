@@ -47,6 +47,7 @@ or listen here -
 ## DAY'S RECORDINGS
 [Jesse's Talk](https://us02web.zoom.us/rec/share/yO8qCevuqlNLH42KymiOVo1mPJ35T6a82yYc_qYNyE6LR_PuKESlH3Pk5B6BMLNq)
 
+## DHAMMA GIFT
 @video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV
 
 Lone Yogi Chanting at Thaung Pilar Monastery in the Sagaing Hills of Burma.
