@@ -36,7 +36,7 @@ If you do not have an interview tomorrow but would like to check in with a teach
 
 ## MEDITATION INSTRUCTIONS
 
-### The Brahma Viharas with Steven
+### The Brahma Vihara / Vipassana  with Michele 
 [Dowload Audio File](https://storage.googleapis.com/vipassanahawaii-courses/8MicheleDay8.WAV)
 or listen here -
 
