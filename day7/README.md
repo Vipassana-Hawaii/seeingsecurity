@@ -43,8 +43,8 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/7StevenDay7.WAV
 
 ## DAY'S RECORDINGS
-Available after 6pm
+[Jesse's Talk](https://us02web.zoom.us/rec/share/yO8qCevuqlNLH42KymiOVo1mPJ35T6a82yYc_qYNyE6LR_PuKESlH3Pk5B6BMLNq)
 
-@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV  
+@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3162.MOV
 
 Lone Yogi Chanting at Thaung Pilar Monastery in the Sagaing Hills of Burma.
