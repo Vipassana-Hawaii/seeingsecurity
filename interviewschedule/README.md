@@ -51,13 +51,6 @@ Zoom Meeting ID: 520 425 3403
 ### with Darine
 [Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
 
-Zoom Meeting ID: 897 955 4235
-- 10-10:15 **
-- 10:15-10:30 **
-- 10:40-10:55 **
-- 10:55-11:10 **
-- 11:20-11:35 **
-
 ## Saturday, June 20th
 All Times Hawaii Standard GMT-10
 
