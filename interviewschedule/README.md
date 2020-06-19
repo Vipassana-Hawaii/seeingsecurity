@@ -48,9 +48,6 @@ Zoom Meeting ID: 520 425 3403
 - 10:55-11:10 *Mary  Z*
 - 11:20-11:35 *Alena  S*
 
-### with Darine
-[Zoom Meeting Link](https://us02web.zoom.us/j/8979554235)
-
 ## Saturday, June 20th
 All Times Hawaii Standard GMT-10
 
