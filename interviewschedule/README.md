@@ -64,7 +64,7 @@ Zoom Meeting ID: 357 557 0458
 - 10:55-11:10 *Phil M*
 - 11:20-11:35 *Tracey G*
 - 11:35-11:50 *Kei T*
-- 7:00-7:15pm *Rahma M*
+- 7:30-7:45pm *Rahma M*
 
 
 ### with Steven
@@ -73,7 +73,7 @@ Zoom Meeting ID: 357 557 0458
 Zoom Meeting ID: 262 497 0781
 
 - 10-10:15 *Matt R*
-- 10:15-10:30 *Courtney R*
+- 10:15-10:30
 - 10:40-10:55 *Luca S*
 - 10:55-11:10 *Sky H*
 - 11:20-11:35 *Sarah W*
