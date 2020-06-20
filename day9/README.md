@@ -1,7 +1,7 @@
 # SEEING SECURITY EVERYWHERE
 ## *Finding Refuge in the Storm of Uncertainty*
 
-![Candlelit Buddha](https://storage.googleapis.com/vipassanahawaii-courses/Buddha13.jpg)
+![Overgrown Buddha](https://storage.googleapis.com/vipassanahawaii-courses/buddha19.jpeg)
 
 ## SATURDAY, JUNE 20
 (All times Hawaii Standard = GTM -10)
@@ -47,4 +47,4 @@ or listen here -
 
 ## DHAMMA GIFT
 
-@video https://storage.googleapis.com/vipassanahawaii-courses/IMG_3704.MOV
+@video https://storage.googleapis.com/vipassanahawaii-courses/mymrvid.mp4
