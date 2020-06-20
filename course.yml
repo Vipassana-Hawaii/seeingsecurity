@@ -40,4 +40,7 @@ labs:
     relative-path: day7
   - id: Dayeight
     title: Day Eight - Friday, 19
-    relative-path: day8 
+    relative-path: day8
+  - id: Daynine
+    title: Day Nine - Friday, 20
+    relative-path: day9 
