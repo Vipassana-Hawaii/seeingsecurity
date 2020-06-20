@@ -82,7 +82,6 @@ Zoom Meeting ID: 262 497 0781
 
 Zoom Meeting ID: 780 053 9701
 
-- 10-10:15 *Lucinda M*
 - 10:15-10:30 *Carol B*
 - 10:40-10:55 *Gary K*
 - 10:55-11:10 *Mathew B*
