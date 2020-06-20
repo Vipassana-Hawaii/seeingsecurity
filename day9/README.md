@@ -43,7 +43,7 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/9StevenDay9.WAV
 
 ## DAY'S RECORDINGS
-[Michele's Dhamma Talk](https://us02web.zoom.us/rec/share/wPI2Puuu1WlIG8_p9EP8eqocM6-iX6a8gCEY-KFbzko1DOwSmvB-tiSamXmtZedI)
+
 
 ## DHAMMA GIFT
 

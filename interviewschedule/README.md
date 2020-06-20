@@ -63,6 +63,7 @@ Zoom Meeting ID: 357 557 0458
 - 10:40-10:55 *Susan M*
 - 10:55-11:10 *Phil M*
 - 11:20-11:35 *Tracey G*
+- 11:35-11:50 *Kei T*
 - 7:00-7:15pm *Rahma M*
 
 
