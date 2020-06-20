@@ -19,6 +19,8 @@
 - Meeting ID: 874 1486 5834
 - Password: 016075
 
+[Recording](https://us02web.zoom.us/rec/share/u91vEpHu_DhOf5Hd-lnOcYslOJbCaaa80yYY_PINzhrb-Mb11T32N7ACefol1Gn3)
+
 ### 10-11:30 - INTERVIEWS
 Check Interview page in course for your schedule details
 
