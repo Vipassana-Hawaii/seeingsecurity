@@ -47,3 +47,6 @@ labs:
   - id: Dayten
     title: Day Ten - Sunday, 21
     relative-path: day10
+  - id: Dana
+    title: Dana
+    relative-path: dana  
