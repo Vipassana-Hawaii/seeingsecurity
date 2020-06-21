@@ -48,7 +48,7 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/9StevenDay9.WAV
 
 ## DAY'S RECORDINGS
-
+[Steven's Talk](https://us02web.zoom.us/rec/share/uupUM6uvzn5JX4nS2AbGVo8nI4_XT6a81yEd__tbmEfdVfok6zOOaW--MroIfwhZ)
 
 ## DHAMMA GIFT
 
