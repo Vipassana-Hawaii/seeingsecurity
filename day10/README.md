@@ -46,3 +46,9 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/10MicheleDay10.WAV
 
 ## DAY'S RECORDINGS
+
+## DHAMMA GIFT
+
+Sayadaw U Lakkhana Chanting the Karaniya Metta Sutta
+
+@audio https://storage.googleapis.com/vipassanahawaii-courses/KyaswaSayadaw3.mp3
