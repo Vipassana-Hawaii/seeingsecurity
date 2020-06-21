@@ -46,8 +46,3 @@ or listen here -
 @audio https://storage.googleapis.com/vipassanahawaii-courses/10MicheleDay10.WAV
 
 ## DAY'S RECORDINGS
-
-
-## DHAMMA GIFT
-
-@video https://storage.googleapis.com/vipassanahawaii-courses/mymrvid.mp4
