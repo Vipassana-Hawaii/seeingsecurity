@@ -44,3 +44,6 @@ labs:
   - id: Daynine
     title: Day Nine - Saturday, 20
     relative-path: day9
+  - id: Dayten
+    title: Day Ten - Saturday, 21
+    relative-path: day10
