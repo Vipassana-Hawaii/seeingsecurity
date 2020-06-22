@@ -47,6 +47,8 @@ or listen here -
 
 ## DAY'S RECORDINGS
 
+[Jesse's Talk](https://us02web.zoom.us/rec/share/4dxPdrCp3XhITZHfslPTRpM-Jcf6X6a8gXRNrqEFyEg_gUSEYTQAzWsZVbhuKust)
+
 ## DHAMMA GIFT
 
 Sayadaw U Lakkhana Chanting the Karaniya Metta Sutta
